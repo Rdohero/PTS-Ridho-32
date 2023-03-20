@@ -1,0 +1,298 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string-array name="food_name">
+        <item>Salad</item>
+        <item>Tahu Sichuan (Tahu Mama)</item>
+        <item>Tahu muda</item>
+        <item>Tumis sayap ayam</item>
+        <item>Ayam panggang susu</item>
+        <item>Tumis telur puyuh</item>
+        <item>Ratatouille</item>
+        <item>Saus sayap ayam goreng</item>
+        <item>Nasi kari ayam jepang</item>
+        <item>Mie Cina</item>
+    </string-array>
+
+    <string-array name="food_description">
+        <item>rangkaian hidangan lezat, sehat, bebas minyak, bebas gula untuk anggota keluarga kita untuk menurunkan berat badan dengan gembira.\n\n
+            Bahan : \n\n
+            1. 1 genggam mie quinoa (mie yang terbuat dari quinoa)\n\n
+            2. 2 buah dada ayam (atau 1 dada ayam besar)\n\n
+            3. 5 buah tomat ceri\n\n
+            4. 1/2 cangkir kacang polong segar\n\n
+            5. 1/2 buah mentega\n\n
+            6. 1/2 buah paprika manis\n\n
+            7. 2 dari kubis merah kecil\n\n
+            8. 1 dari bawang ungu\n\n
+            9. 1 genggam ketumbar\n\n
+            10. 1/2 buah Peras jus lemon\n\n
+            11. 1/2 cangkir yogurt Yunani\n\n
+            12. 1 mcf bubuk jintan\n\n
+            13. 1/4 mcf merica\n\n
+            14. 1/4 mcf garam\n\n
+            Cara Membuat : \n\n
+            Langkah 1 \n\n
+            Rebus ayam yang sudah matang dan keluarkan, gunakan panci itu untuk merebus mie, saat mie hampir matang, 3 menit masukkan kacang polong dan tunggu hingga mendidih lagi, lalu matikan kompor dan buang air rebusannya.\n\n
+            Langkah 2 \n\n
+            Bahan yang tersisa dipotong kecil-kecil, ayam rebus disuwir menjadi bumbu yang sama.\n\n
+            Langkah 3 \n\n
+            Tambahkan yogurt dan jus lemon dan aduk rata dengan mie dan kacang dengan bahan di atas\n\n
+            Langkah 4 \n\n
+            Sayur selada ditata di bawah piring, untuk dicampur salad, disajikan panas atau dingin.</item>
+        <item>hidangan Tionghoa populer yang berasal dari provinsi Sichuan. Hidangan ini terdiri dari tahu yang dibumbui dan dimasak dengan saus pedas. \n\n
+            Bahan : \n\n
+            1. 2 kotak tahu mentah \n\n
+            2. 1 ons daging giling \n\n
+            3. Sate, kecap chinsu, cabai bubuk (jika ada), saus sambal, minyak wijen, saus tiram, lada (jika bisa dimakan), gula \n\n
+            4. Bawang daun \n\n
+            5. Bawang merah bawang putih \n\n
+            6. jahe cincang \n\n
+            Cara Membuat : \n\n
+            Langkah 1 \n\n
+            Kupas tahu muda sekotak, cuci bersih dengan air, bentuk bidak catur \n\n
+            Lagkah 2 \n\n
+            Panaskan saus: masukkan minyak goreng ke dalam wajan, tumis bawang bombay, bawang putih, jahe cincang, lalu tambahkan 2-3 sendok teh sate, 1 sendok teh cabai bubuk jika ada, 1 sendok teh minyak wijen, 2 sendok teh saus tiram, 1- 2 sendok teh kecap manis chinsu, 1 sendok teh saus sambal, 1 sendok teh gula pasir, rebus kurang lebih 1 menit hingga bumbu halus. \n\n
+            Langkah 3 \n\n
+            Kemudian tambahkan daging cincang ke saus dan tumis sampai matang. Selanjutnya tambahkan air sekitar 300-400ml, didihkan, bumbui rasa asin, manis, pedas sedikit lebih ringan dari rasa yang dimakan agar airnya menguap. Masukkan tahu perlahan, kocok wajan untuk memasukkan saus, tapi jangan diaduk, nanti hancur.\n\n
+            Langkah 4 \n\n
+            Tutup panci dan didihkan dengan api kecil agar kacang menyerap bumbu, lalu nyalakan api sedang, buka tutupnya dan sesekali goyangkan panci agar saus merata. Setelah air menyusut menjadi 1/2, campurkan sedikit tepung maizena/tepung tapioka jika ingin kuah kental. Buang daun bawang cincang dan lada selesai.\n\n
+        </item>
+        <item>tahu muda yang dicampur dengan daging cincang dengan diberi saus pedas.\n\n
+            Bahan : \n\n
+            1. 300 gram daging cincang (daging giling)\n\n
+            2. 2 sekotak tahu muda\n\n
+            3. 2 lagi tomat\n\n
+            4. 2 sendok makan bawang ungu cincang\n\n
+            5. 2 pohon bawang daun\n\n
+            6. gula\n\n
+            7. kecap ikan\n\n
+            8. minyak goreng\n\n
+            9. saus sambal\n\n
+            10. saus tomat\n\n
+            Cara Membuat : \n\n
+            Langkah 1 \n\n
+            Tomat dicuci, dibuang bijinya, dipotong dadu Daun bawang dicuci, dipotong kecil-kecil, dan sisihkan kepala bawang. Tahu potong dadu kecil sesuai selera.\n\n
+            Langkah 2 \n\n
+            Masukkan daging cincang 1MC gula pasir + 1MC bumbu penyedap + 1MC kecap ikan + kepala daun bawang, aduk rata dan biarkan meresap selama 30 menit.\n\n
+            Langkah 3 \n\n
+            Masukkan minyak goreng 2MC ke dalam wajan, panaskan minyak, tumis bawang ungu cincang lalu tuang daging cincang dan aduk hingga matang. Masukkan daging cincang tomat + 200ml air + 1MC saus ikan + 1MC saus sambal + 1MC saus tomat, aduk rata dan lanjutkan memasak hingga daging empuk.\n\n
+            Langkah 4 \n\n
+            Saat daging sudah empuk, bumbui sesuai selera, lalu masukkan tahu muda, balik potongan buncis perlahan agar tidak hancur. Lanjutkan memasak selama 7 menit lagi, tambahkan daun bawang dan matikan api.\n\n
+            Langkag 5 \n\n
+            Sendok tahu dengan saus daging cincang ke dalam mangkuk atau piring yang dalam, sajikan panas dengan nasi kukus.</item>
+        <item>Sayap ayam yang ditumis dengan menggunakan berbagai bumbu. \n\n
+            Bahan : \n\n
+            1. 600g Sayap ayam di tengah\n\n
+            2. 1 umbi bawang bombai\n\n
+            3. 1 tersisa Cabai tanduk merah tidak pedas\n\n
+            4. 2 meter persegi Kedelai\n\n
+            5. 1 mc tiram\n\n
+            6. 1 mc Jalan\n\n
+            7. 1/2 mcf MSG\n\n
+            8. 1/2mcf merica\n\n
+            9. 4 siung bawang putih\n\n
+            Cara Membuat : \n\n
+            Langkah 1 \n\n
+            Cuci bersih sayap ayam yang telah dibelah memanjang dan rendam sayap ayam dengan bumbu di atas kecuali bawang putih, cabai dan bawang merah.\n\n
+            Langkah 2\n\n
+            Setelah 10 menit, masukkan ke dalam wajan hingga berwarna cokelat keemasan, keluarkan sedikit minyak untuk menggoreng bawang putih hingga berwarna cokelat keemasan, tambahkan bawang bombay dan paprika, lalu tumis bawang bombay.\n\n
+            Langkah 3 \n\n
+            Tenang, masukkan ayam dan tumis, lalu taruh di piring dan taburkan merica di atasnya</item>
+        <item>Ayam panggang yang di rendam dengan susu ataupun yogurt agar memiliki tekstur lembut pada daging ayam. \n\n
+            Bahan : \n\n
+            1. 1 kg sayap ayam atau paha ayam\n\n
+            2. 750 ml Susu segar tanpa gula\n\n
+            3. Pertama bungkus (4 kotak) yogurt tanpa pemanis\n\n
+            4. 2 sdm susu kental\n\n
+            5. 1 sendok teh Susu segar\n\n
+            6. 1 sendok teh sambal korea\n\n
+            7. 2 sdm tiram\n\n
+            8. 1 sendok teh Sayang\n\n
+            9. 2 sdm jalan\n\n
+            10. 1 sendok teh saus char siu atau saus barbekyu\n\n
+            11. 5-6 tetes makanan merah atau 1 sdt bubuk merah makanan\n\n
+            12. 1 sendok teh kedelai\n\n
+            Bumbu Yang diasinkan : \n\n
+            1. Jahe cacah\n\n
+            2. bawang putih cincang\n\n
+            3. bawang ungu cincang\n\n
+            Membumbui \n\n
+            1. bubuk kari\n\n
+            2. bubuk lima rempah\n\n
+            3. bubuk cabai\n\n
+            4. bubuk kunyit\n\n
+            5. biji bumbu\n\n
+            6. merica\n\n
+            Cara Membuat : \n\n
+            Langkah 1\n\n
+            Cuci ayam dan rendam dalam air garam dingin semalaman, keluarkan ayam hingga tiriskan, rendam dalam susu segar dan yogurt kurang lebih 8-10 jam atau semalaman agar ayam memiliki tekstur yang paling lembut, alasan melakukan langkah ini adalah ingin daging putih, super lembut, Super lezat dan meleleh di mulut Anda\n\n
+            Langkah 2\n\n
+            Peras susu, minus 1/4 untuk bumbu halus, bawang merah cincang, bawang putih, dan jahe, rendam selama 1 jam, panggang selama 15 menit pada suhu 170°C.\n\n
+            Langkah 3\n\n
+            Campur semua bahan untuk saus, olesi ayam bakar selama 20 menit (3-5 menit 1 kali), sajikan panas dengan nasi kukus atau nasi goreng
+        </item>
+        <item>
+            Yummy telur puyuh dengan saus tomat enak dimakan dengan nasi panas atau roti. \n\n
+            Bahan : \n\n
+            1. 300 gram daging giling\n\n
+            2. 100 gram singkong (kacang-kacangan)\n\n
+            3. 100 gram bawang bombai\n\n
+            4. 300 gram tomat\n\n
+            5. 20 buah telur puyuh\n\n
+            6. 1,5 sendok makan kanji dr tepung jagung\n\n
+            7. 2 sendok makan bawang ungu cincang\n\n
+            8. Bawang daun\n\n
+            9. 1Mcf + 1MC Biji bumbu\n\n
+            10. 1Mcf + 1MC saus ikan\n\n
+            11. 1Mcf + 1MC jalan\n\n
+            12. 1/3Mcf merica\n\n
+            13. 1MC saus sambal\n\n
+            14. 1MC saus tomat\n\n
+            15. 2MC Minyak goreng\n\n
+            16. 1MC tiram\n\n
+            17. 300 ml air\n\n
+            Cara Membuat : \n\n
+            Langkah 1 \n\n
+            Tomat dicuci, dibuang bijinya, dipotong dadu
+            - Bawang bombay + umbi singkong cincang, tiriskan
+            - Daun bawang dicuci bersih, potong kecil-kecil, sisihkan kepala bawangnya
+            - Rebus telur puyuh, kupas kulitnya
+            - Tambahkan daging cincang + daun bawang 1MC + bumbu 1Mcf + gula 1Mcf + kecap ikan 1Mcf + lada 1/3Mcf, aduk rata untuk mengasinkan selama 15 menit.\n\n
+            Langkah 2 \n\n
+            Ambil daging secukupnya, gunakan sendok untuk meremas daging ke telapak tangan Anda, taruh 1 telur puyuh di tengahnya lalu gulung menjadi bola.\n\n
+            Langkah 3 \n\n
+            Masukkan 2MC minyak goreng ke dalam wajan, minyak panas, tumis bawang bombay dan tomat cincang, tambahkan 1MC gula pasir + 1MC bumbu penyedap rasa + 1MC kecap ikan + 1MC saus tiram + 1MC saus sambal + 1MC saus tomat + 300ml air, tumis saus selama 5 menit.\n\n
+            Langkah 4 \n\n
+            Kemudian masukkan setiap bola siomay ke dalam panci saus, masak lagi selama 20 menit dengan api sedang. Koreksi rasa, masukkan daun bawang, matikan api. Sendok shumai telur puyuh dengan saus tomat di piring, makan dengan nasi panas atau roti.\n\n
+        </item>
+        <item>
+            hidangan pedesaan Provence di Prancis, yang berasal dari kota Nice, ini adalah hidangan vegetarian dan berserat tinggi yang cocok untuk diet.\n\n
+            Bahan : \n\n
+            1. 4 kiri Tomat Da Lat\n\n
+            2. 1 tersisa zucchini hijau\n\n
+            3. 1 tersisa zucchini kuning\n\n
+            4. 1/2 tersisa paprika\n\n
+            5. 1/2 tersisa paprika\n\n
+            6. Minyak zaitun\n\n
+            Saus Tomat :
+            1. 2 lagi tomat\n\n
+            2. 1 sendok makan bawang putih cincang\n\n
+            3. 1 sendok makan pure tomat kalengan\n\n
+            4. 1 dari bawang bombai\n\n
+            5. 1/2 mcf daun kering campur wangi\n\n
+            Cara Membuat : \n\n
+            Langkah 1 \n\n
+            Masukkan minyak goreng ke dalam wajan, tumis bawang putih dan bawang bombay hingga harum, masukkan tomat dan bumbui sesuai selera.\n\n
+            Langkah 2 \n\n
+            Iris buah-buahan, tambahkan saus ke cetakan aluminium, dan susun warna bergantian satu per satu. Gerimis dengan minyak zaitun, taburi dengan merica dan daun ketumbar\n\n
+            Langkah 3 \n\n
+            Bungkus dengan aluminium foil dan panggang dalam oven yang sudah dipanaskan dengan suhu 180 derajat selama 40 menit.
+        </item>
+        <item>
+            Sayap ayam yang diguyur dengan menggunakan saus pedas yang memiliki aroma memikat.\n\n
+            Bahan : \n\n
+            1. 400g sayap ayam\n\n
+            2. 200g tepung renyah\n\n
+            3. Minyak goreng\n\\n
+            4. Saus ikan\n\n
+            5. Jalan\n\n
+            6. Bawang daun\n\n
+            7. Bawang putih\n\n
+            8. Merica\n\n
+            Saus : \n\n
+            1. 2 sendok saus ikan\n\n
+            2. 2 sendok jalan\n\n
+            3. 1 sendok tiram\n\n
+            4. 1 sendok air\n\n
+            5. 1 sendok saus sambal\n\n
+            Cara Membuat :\n\n
+            Langkah 1 \n\n
+            Sayap ayam dicuci bersih, dikeringkan dengan tisu, ditutup dengan lapisan tepung goreng lalu digoreng dengan minyak sampai renyah keemasan seperti terlihat di foto.\n\n
+            Langkah 2 \n\n
+            Pencampuran saus : 2 sdm kecap ikan, 2 sdm gula pasir, 1 sdm saus tiram, 1 sdm air, 1 sdm saus sambal cantik\n\n
+            Langkah 3 \n\n
+            Tumis bawang bombay dan bawang putih, lalu tambahkan sayap ayam, tuangkan saus ke atas pulau selama kurang lebih 5 menit agar bisa digunakan.
+        </item>
+        <item>
+            Kari yang dimasak dengan gaya Jepang sangat enak, tidak membosankan dan tidak terlalu pedas. \n\n
+            Bahan : \n\n
+            1. 3 buah paha ayam besar atau 1 dada ayam besar\n\n
+            2. Bawang merah dan bawang putih dicincang\n\n
+            3. 3-4 buah kentang\n\n
+            4. 1 dari wortel\n\n
+            5. Air secukupnya untuk digunakan\n\n
+            6. Bumbu: kecap ikan, bumbu, lada\n\n
+            7. 2 sendok Mentega tawar besar atau mentega Tuong An (mentega tawar akan terasa lebih enak)\n\n
+            8. 1 sendok makan minyak goreng\n\n
+            9. 4 sendok tepung\n\n
+            10. 1 paket kari\n\n
+            11. 1/2 Guci kari minyak (tergantung selera)\n\n
+            Cara Membuat : \n\n
+            Langkah 1\n\n
+            Pertama Anda harus memasak bumbu kari, juga dikenal sebagai crox kari. Masukkan mentega ke dalam panci agar mencair, lalu masukkan tepung terigu dan masak selama kurang lebih 1 menit hingga adonan matang, tambahkan 1 sendok makan minyak goreng agar adonan tidak terlalu kental. Tambahkan bubuk kari, minyak kari, matikan api dan aduk rata. Banyaknya bubuk kari yang ditambahkan tergantung kebutuhan masing-masing orang.\n\n
+            Langkah 2\n\n
+            Cuci ayam. Cincang halus jika menggunakan paha, cincang halus jika menggunakan dada ayam. Lumuri ayam dengan 1 sdm kecap ikan, 1 sdt bumbu penyedap, 1/2 sdt lada. Kentang dan wortel dicuci, dikupas dan dipotong-potong seukuran gigitan.\n\n
+            Langkah 3 \n\n
+            Masukkan minyak ke dalam wajan, tumis bawang merah dan bawang putih. Taruh ayam di pulau dan biarkan ayam berburu lagi, lalu tambahkan wortel dan kentang ke pulau untuk meresapi bumbu. Tambahkan air hingga menutupi daging, masak hingga daging dan umbi empuk, lalu masukkan bumbu kari. Jumlah bumbu kari yang ditambahkan perlu disesuaikan agar memiliki rasa yang cukup dan menciptakan kekentalan yang diinginkan.\n\n
+            Langkah 4 \n\n
+            Saat daging dan sayuran sudah lunak, angkat ke piring dan sajikan dengan nasi panas. Semoga beruntung.
+        </item>
+        <item>
+            Dengan mie dan saus, keduanya adalah produk rumahan yang panas, jadi sangat yomost. \n\n
+            Bahan : \n\n
+            1. 1/2 anak ayam tanpa tulang\n\n
+            2. 6 tersisa Kacang pipih (menggunakan kacang cove juga ok)\n\n
+            3. 3 meter persegi Saus teiyaki (saya juga punya saus buatan sendiri)\n\n
+            4. Mie untuk 3 orang (saya punya mie buatan sendiri)\n\n
+            5. 2 siung bawang putih kecil\n\n
+            6. 1 dari bawang ungu\n\n
+            7. 3 irisan kepala bawang\n\n
+            8. daun bawang cincang\n\n
+            9. Minyak goreng, bumbu halus, merica\n\n
+            10. 200 gr Harga kacang hijau\n\n
+            11. salad es krim\n\n
+            12. 1 bit mie rebus asin\n\n
+            Cara Membuat : \n\n
+            Langkah 1\n\n
+            Ayam tanpa tulang direndam dengan bawang merah cincang 1/2 sdt garam, 1/2 sdt bumbu bubuk, sedikit lada dan saus teriyaki 1 mc\n\n
+            Langkah 2\n\n
+            Goreng bawang putih dengan 1 mc minyak goreng lalu tumis ayam, beri 1 gelas air dan 2 mc saus teriyaki, tutup dan didihkan dengan api sedang selama 20 menit, aduk sesekali.\n\n
+            Langkah 3 \n\n
+            Sementara itu, potong kacang dan daun bawang, Setelah 20 menit atau sampai air hampir kering, tambahkan kacang dan masak selama 2 menit lagi, tambahkan daun bawang dan daun bawang, aduk rata, matikan api dan taruh di piring terpisah.\n\n
+            Langkah 4 \n\n
+            Masukkan kecambah ke dalam wajan itu dan tumis dengan sedikit saus teriyaki dengan api besar selama 1 menit, buang airnya di piring jika kecambahnya keluar.\n\n
+            Langkah 5 \n\n
+            Rebus mi dengan sedikit garam, rebus, campur dengan minyak wijen hingga harum, lalu bagi piring dengan seporsi tauge, seporsi mi, selada dan ayam dengan saus teriyaki di atasnya.
+        </item>
+    </string-array>
+
+    <integer-array name="food_image">
+        <item>@drawable/food_picture_1</item>
+        <item>@drawable/food_picture_2</item>
+        <item>@drawable/food_picture_3</item>
+        <item>@drawable/food_picture_4</item>
+        <item>@drawable/food_picture_5</item>
+        <item>@drawable/food_picture_6</item>
+        <item>@drawable/food_picture_7</item>
+        <item>@drawable/food_picture_8</item>
+        <item>@drawable/food_picture_9</item>
+        <item>@drawable/food_picture_10</item>
+    </integer-array>
+
+    <string-array name="list_bahan">
+        <item>1 genggam mie quinoa (mie yang terbuat dari quinoa)
+            2 buah dada ayam (atau 1 dada ayam besar)
+            5 buah tomat ceri
+            1/2 cangkir kacang polong segar
+            1/2 buah mentega
+            1/2 buah paprika manis
+            2 dari kubis merah kecil
+            1 dari bawang ungu
+            1 genggam ketumbar
+            1/2 buah Peras jus lemon
+            1/2 cangkir yogurt Yunani
+            1 mcf bubuk jintan
+            1/4 mcf merica
+            1/4 mcf garam</item>
+    </string-array>
+</resources>
